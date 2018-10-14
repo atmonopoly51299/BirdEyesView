@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/city.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/deforestation.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/models/MenuScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/entercity.unity
+  isLoaded: 0
+  isActive: 0
